@@ -1,0 +1,21 @@
+{
+  "name": "stitchlabs",
+  "version": "1.0.0",
+  "description": "Request wrapper for Stitch Labs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  },
+  "author": "Thomas Reggi",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^2.9.30",
+    "debug": "^2.2.0",
+    "dotty": "0.0.2",
+    "lodash": "^3.9.3",
+    "moment": "^2.10.3",
+    "request-promise": "^0.4.2",
+    "underscore": "^1.8.3",
+    "underscore-deep-extend": "0.0.5"
+  }
+}

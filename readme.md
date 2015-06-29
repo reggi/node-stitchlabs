@@ -1,5 +1,11 @@
 # StitchLabs API Wrapper
 
+```
+npm i stitchlabs --save
+```
+
+https://www.npmjs.com/package/stitchlabs
+
 Created specifically for [node-inventory-bridge](https://github.com/reggi/node-inventory-bridge)
 
 Apologies for poor documentation!
